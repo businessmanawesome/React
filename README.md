@@ -4,7 +4,6 @@
   <a href="https://npmjs.com/package/react-app-tools"><img src="https://img.shields.io/npm/dm/react-app-tools.svg?maxAge=3600" height="20"></a>
   <a href="https://opencollective.com/react-app"><img src="https://opencollective.com/react-app/backers/badge.svg?maxAge=3600" height="20"></a>
   <a href="https://twitter.com/ReactSDK"><img src="https://img.shields.io/twitter/follow/ReactSDK.svg?style=social&amp;label=Follow&amp;maxAge=3600" height="20"></a>
-  <a href="https://t.me/reactapp"><img src="https://img.shields.io/badge/chat-Telegram-green.svg?style=social&amp;maxAge=3600" height="20"></a>
 </h1>
 
 Everything you love about **[Create React App](https://github.com/facebook/create-react-app)** plus
@@ -120,10 +119,6 @@ For more information refer to Create React App documentation:
 * [Getting Started](https://github.com/facebookincubator/create-react-app#getting-started) – How to create a new app.
 * [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) – How to develop apps bootstrapped with Create React App.
 
-Join our Telegram chat for support and feature requests - https://t.me/reactapp
-
-<p align="center"><a href="https://www.youtube.com/watch?v=GH3kJwQ7mxM"><img src="http://img.youtube.com/vi/GH3kJwQ7mxM/maxresdefault.jpg" width="1187" alt="Server-side rendering with React.js" /><br /><sup>How fast is React SSR?</sup></a></p>
-
 ## How to Customize
 
 Create `config-overrides.js` file in the root of your project containing with configuration
@@ -194,4 +189,4 @@ requests](CONTRIBUTING.md#submitting-a-pull-request)!
 
 ## License
 
-[MIT](https://github.com/kriasoft/react-app/blob/master/LICENSE) © 2016-present Facebook, Kriasoft.
+[MIT](https://github.com/kriasoft/react-app/blob/master/LICENSE) © 2016-present Facebook, businessmanawesome.
